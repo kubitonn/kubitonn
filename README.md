@@ -6,9 +6,10 @@ I am currently a developer of FiveM servers 🔩
 
 My main programming languages ​​are Python, Lua and C++. 🌱
 
+Owner 🌴 Chill RolePlay - https://discord.gg/V7srbZEbZz
 
 **Discord:**
-**kubitonn#3777**
+**kubitonn#0001**
  
 <hr>
 
