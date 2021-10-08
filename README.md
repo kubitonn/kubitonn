@@ -10,7 +10,7 @@ Owner 🌴 Chill RolePlay - https://chillroleplay.pl 🌴 https://discord.gg/qsg
 
 
 **Discord:**
-**kubitonn#0001**
+**kubitonn#2715**
  
 <hr>
 
