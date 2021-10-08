@@ -4,7 +4,7 @@ I have a lot of interests and I'm learning new things all the time 📘
 
 I am currently a developer of FiveM servers 🔩
 
-My main programming languages ​​are Lua, JavaScript, C++ and Python. 🌱
+My main programming languages ​​are Lua, JavaScript, C++, C# and Python. 🌱
 
 Owner 🌴 Chill RolePlay - https://chillroleplay.pl 🌴 https://discord.gg/qsg9aR658n
 
