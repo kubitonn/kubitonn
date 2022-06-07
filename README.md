@@ -6,7 +6,7 @@ I am currently a developer of FiveM servers 🔩
 
 My main programming languages ​​are Lua, JavaScript, C++, C#, Python, HTML, PHP and CSS. 🌱
 
-Owner 🌴 Chill RolePlay - https://chillroleplay.pl 🌴 https://discord.gg/qsg9aR658n 🌴
+Owner 🌴 Chill RolePlay - https://chillroleplay.pl 🌴 https://dc.chillroleplay.pl/ 🌴
 
 
 **Discord:**
