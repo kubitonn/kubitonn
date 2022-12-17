@@ -12,7 +12,7 @@ Owner 🖤 213 RolePlay - https://213rp.pl/ 🖤 https://discord.gg/213roleplay 
 
 
 **Discord:**
-**kubitonn#1312**
+**kubitonn#1337**
  
 <hr>
 
