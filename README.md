@@ -1,18 +1,23 @@
-## Hi! 👋
+# Hi! 👋
 
 I have a lot of interests and I'm learning new things all the time 📘
 
-I am currently a developer of FiveM servers 🔩
+I am currently a Developer of FiveM Servers 🔩
 
 My main programming languages ​​are Lua, JavaScript, C++, C#, Python, HTML, PHP and CSS. 🌱
 
-Owner 💜 LayRP - https://layrp.pl/ 💜 https://discord.gg/layrp 💜
+## **CEO & FOUNDER OF:** 👑
 
-Owner 🖤 213RP - https://213rp.pl/ 🖤 https://discord.gg/213roleplay 🖤
+**[ ! ] 213RP -> LayRP**
+
+🖤 **LayRP** 🖤
+
+Website: https://layrp.pl/
+
+Discord: https://discord.gg/layrp
 
 
-**Discord:**
-**kubitonn#1337**
+**Discord: kubitonn (kubitonn#1337)**
  
 <hr>
 
