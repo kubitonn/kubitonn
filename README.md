@@ -8,16 +8,10 @@ My main programming languages ​​are Lua, JavaScript, C++, C#, Python, HTML, 
 
 ## **CEO & FOUNDER OF:** 👑
 
-**[ ! ] 213RP -> LayRP**
-
-🖤 **LayRP** 🖤
-
-Website: https://layrp.pl/
-
-Discord: https://discord.gg/layrp
+**[ ! ] 213RP & LayRP**
 
 
-**Discord: kubitonn (kubitonn#1337)**
+**Discord: kubitonn.**
  
 <hr>
 
