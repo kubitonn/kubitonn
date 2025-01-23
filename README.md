@@ -11,7 +11,6 @@ My main programming languages ​​are Lua, JavaScript, C++, C#, Python, HTML, 
 **[ ! ] 213RP & LAYRP**
 
 
-
 **Discord: kubitonn.**
  
 <hr>
