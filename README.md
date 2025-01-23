@@ -2,7 +2,7 @@
 
 I have a lot of interests and I'm learning new things all the time 📘
 
-I am currently a Developer of FiveM Servers 🔩
+I am currently a Developer of FiveM Servers (Front-End & Back-End) 🔩
 
 My main programming languages ​​are Lua, JavaScript, C++, C#, Python, HTML, PHP and CSS. 🌱
 
