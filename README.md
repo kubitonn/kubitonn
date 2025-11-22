@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hey! 👋
 
 I have a lot of interests and I'm learning new things all the time 📘
 
