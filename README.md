@@ -6,13 +6,14 @@ I'm currently a Full-Stack Developer and I mainly specialize in FiveM Projects (
 
 
 ## My skills: ⭐
-Lua, JavaScript, TypeScript C++, C#, Python, HTML, CSS, PHP, SQL (MySQL, PostgreSQL, MongoDB), React, REST API (NodeJS, Express, Flask), Discord Bots (JS/Py), DevOps, Git, Figma, Photoshop, WordPress, BaseLinker and ShopGold 🌱
+Lua - JavaScript - TypeScript - C++ - C# - Python - HTML - CSS - PHP - SQL (MySQL, PostgreSQL, MongoDB) - React - REST API (NodeJS, Express, Flask) - Discord Bots (JS/Py) - DevOps - Git - Figma - Photoshop - WordPress - BaseLinker - ShopGold 🌱
 
 
 ## **CEO & FOUNDER OF:** 👑
 **[ > ] 213RP**
 
 
+## Contact: 📩
 **Discord: [kubitonn.](https://discord.com/users/1331984437285486704)**
 
 **Mail: [contact@kubitonn.xyz](mailto:contact@kubitonn.xyz)**
