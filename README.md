@@ -9,8 +9,8 @@ I'm currently a Full-Stack Developer and I mainly specialize in FiveM Projects (
 Lua - JavaScript - TypeScript - C++ - C# - Python - HTML - CSS - PHP - SQL (MySQL, PostgreSQL, MongoDB) - React - REST API (NodeJS, Express, Flask) - Discord Bots (JS/Py) - DevOps - Git - Figma - Photoshop - WordPress - BaseLinker - ShopGold 🌱
 
 
-## **CEO & FOUNDER OF:** 👑
-**[ > ] 213RP**
+## **Ceo and Founder of:** 👑
+**[>] 213RP**
 
 
 ## Contact: 📩
