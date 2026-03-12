@@ -16,9 +16,9 @@ Lua - JavaScript - TypeScript - C++ - C# - Python - HTML - CSS - PHP - SQL (MySQ
 ## Contact: 📩
 **Discord: [kubitonn.](https://discord.com/users/1331984437285486704)**
 
-**Mail: [contact@kubitonn.xyz](mailto:contact@kubitonn.xyz)**
+**Mail: [contact@kubitonn.pl](mailto:contact@kubitonn.pl)**
 
-**Website: [kubitonn.xyz](https://kubitonn.xyz/)** 
+**Website: [kubitonn.xyz](https://kubitonn.pl/)** 
  
 <hr>
 
