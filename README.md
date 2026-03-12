@@ -18,7 +18,7 @@ Lua - JavaScript - TypeScript - C++ - C# - Python - HTML - CSS - PHP - SQL (MySQ
 
 **Mail: [contact@kubitonn.pl](mailto:contact@kubitonn.pl)**
 
-**Website: [kubitonn.xyz](https://kubitonn.pl/)** 
+**Website: [kubitonn.pl](https://kubitonn.pl/)**
  
 <hr>
 
